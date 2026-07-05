@@ -1,1 +1,1 @@
-# Tercer_pre_entrega_Amarillo
+#Modelo de prediccion de los precios del trigo
